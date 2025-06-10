@@ -30,6 +30,9 @@
         "projectId": "d350ad2c-f028-4b25-8749-dcea32fdab6c"
       }
     },
-    "owner": "don_kamas"
+    "owner": "don_kamas",
+    "android": {
+      "package": "com.don_kamas.boltexponativewind"
+    }
   }
 }
